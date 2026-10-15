@@ -1,0 +1,5 @@
+Name: Alina
+Surname: Sevidova
+Group: IT2-2304
+Student ID: 37697
+Course: DevOps
